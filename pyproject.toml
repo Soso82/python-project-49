@@ -2,10 +2,11 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Soslan <soso82@mail.ru>"]
 packeges = [
   { include = "brain_games" },
 ]
+
 [tool.poetry.dependencies]
 python = "^3.10"
 
