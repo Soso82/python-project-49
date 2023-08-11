@@ -1,4 +1,4 @@
-from random import randit
+from random import randint
 print('Welcome to the Brain Games!')
 name = input('May I have your name?')
 print(f'Hello, {name}!')
@@ -13,13 +13,12 @@ for i in range(3):
     else:
         correct_answer = "no"
     if user_answer != correct_answer:
-	print(f'{user_answer} is wrong answer;(. Correct answer was {correct_answer}.')
-	print(f'Let\'s try again, {name}')
-	break
+        print(f'{user_answer} is wrong answer;(.Correct answer was {correct_answer}.')
+        print(f'Let\'s try again, {name}')
+        break
     elif user_answer == correct_answer:
-	print('Correct!')
-	count += 1
+        print('Correct!')
+        count += 1
     if count == 3:
-	print(f'Congratulations, {name}!')	
-	
+        print(f'Congratulations, {name}!')
 
