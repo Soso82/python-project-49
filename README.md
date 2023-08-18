@@ -3,3 +3,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/801539daf54db7ecad13/maintainability)](https://codeclimate.com/github/Soso82/python-project-49/maintainability)
 ###Even Brain Game asciinema:
 [![asciicast](https://asciinema.org/a/3ddgy0nfZqgURSLXkigfRXKLH.svg)](https://asciinema.org/a/3ddgy0nfZqgURSLXkigfRXKLH)
+[![asciicast](https://asciinema.org/a/GEUlHdbBpSRR441vfCMkdmWi6.svg)](https://asciinema.org/a/GEUlHdbBpSRR441vfCMkdmWi6)
+
